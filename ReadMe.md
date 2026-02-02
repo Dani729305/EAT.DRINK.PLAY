@@ -1,5 +1,7 @@
 🚀 Animated Interactive Website
 
+https://dani729305.github.io/EAT.DRINK.PLAY/
+
 This project is a modern animated website built to deliver a smooth, engaging, and interactive user experience. It focuses heavily on scroll-based animations, dynamic transitions, and micro-interactions to make the UI feel alive and responsive.
 
 The entire interface is crafted using HTML, CSS, JavaScript, GSAP, and Bootstrap, ensuring both performance and responsiveness across devices.
