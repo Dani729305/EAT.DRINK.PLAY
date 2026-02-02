@@ -310,4 +310,20 @@ a.links{
     width: 33%;
     height: 18%;
 }
+footer{
+    width: 100%;
+    height: 15vh;
+    padding:0;
+    gap: 20px;
+}
+.footer-in h5{
+    color: black;
+    margin-top: 0;
+    font-size: 0.8rem;
+    padding: 3px 0 ;
+}
+.footer-in p{
+    font-weight: 700;
+    font-size: 0.8rem;
+}
 }
